@@ -8,12 +8,12 @@
 % channels.
 
 % 2. Write code which reads in all the channels from the 30th time point
-% and displays a multicolor image of them.
+% and displays them as a multicolor image.
 
 % 3. Use the images from part (2). In one of the channels, the membrane is
 % prominently marked. Determine the best threshold and make a binary
-% mask which marks the membranes and display this mask. 
+% mask which marks the membranes and displays this mask. 
 
 % 4. Run and display both an erosion and a dilation on your mask from part
-% 3 with a structuring element which is a disk of radius 3. Explain the
+% (3) with a structuring element which is a disk of radius 3. Explain the
 % results.
